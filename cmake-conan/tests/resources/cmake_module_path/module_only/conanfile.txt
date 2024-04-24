@@ -1,5 +1,0 @@
-[requires]
-cmake-module-with-dependency/0.1
-
-[generators]
-CMakeDeps
